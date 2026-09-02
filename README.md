@@ -10,7 +10,7 @@ Custom open-source functions for the **[Detroit Underground DU-INO](https://gith
 A dual-channel Euclidean rhythm and random stepped-CV generator.
 
 <p align="center">
-  <img src="euclid.jpg" alt="r-EUCLID Module" width="50%"/>
+  <img src="euclid.jpeg" alt="r-EUCLID Module" width="50%"/>
 </p>
 
 * **GT1 (Out):** Channel 1 Trigger Out (Euclidean beat).
@@ -34,7 +34,7 @@ SC4    [_][_]    SC3
 A perpetual 4-body gravitational simulation acting as a chaotic quad-LFO and orbital rhythm generator.
 
 <p align="center">
-  <img src="celestial.jpg" alt="r-CELESTIAL MODULATOR Module" width="50%"/>
+  <img src="celestial.jpeg" alt="r-CELESTIAL MODULATOR Module" width="50%"/>
 </p>
 
 * **GT1 (Out):** Planet 1 Orbital Clock/Trigger (Fires each full orbit).
