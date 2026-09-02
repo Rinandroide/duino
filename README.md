@@ -50,3 +50,13 @@ SG4    [_][_]    SG3
 SC2    [^][^]    SC1
 SC4    [^][^]    SC3
 ```
+
+## Installation & Requirements
+
+Install the official DU-INO Library in your Arduino IDE.
+Ensure you have the required dependencies (such as SPI and AVR libraries).
+Open the desired .ino sketch and upload it to the module via USB (Board: Arduino Pro or Pro Mini / Uno depending on your setup).
+Set the rear DIP switches according to the module's ASCII diagram above.
+
+## License
+Released under the MIT License.
