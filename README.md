@@ -1,6 +1,6 @@
 # DU-INO Eurorack Custom Modules
 
-Custom open-source functions for the **[Detroit Underground DU-INO](https://github.com/logickworkshop/du-ino)** Arduino-based Eurorack module by Logick Workshop.
+Custom open-source functions for the **[Detroit Underground DU-INO](https://github.com/logickworkshop/du-ino)** Arduino-based Eurorack module
 
 ---
 
