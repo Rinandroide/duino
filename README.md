@@ -38,10 +38,10 @@ A perpetual 4-body gravitational simulation acting as a chaotic quad-LFO and orb
 * **CO3 (Out):** Planet 3 Orbit LFO (0–5V).
 * **CO4 (Out):** Planet 4 Orbit LFO (0–5V).
 
-Parameters (Interactive Encoder):
-S (Speed): Simulation orbital speed.
-G (Gravity): Central star mass / gravitational pull.
-E (Entropy): Solar wind & cosmic turbulence.
+#### Parameters (Interactive Encoder):
+* **S (Speed):** Simulation orbital speed.
+* **G (Gravity):** Central star mass / gravitational pull.
+* **E (Entropy):** Solar wind & cosmic turbulence.
 
 #### Switch Configuration
 ```text
@@ -53,9 +53,9 @@ SC4    [^][^]    SC3
 
 ## Installation & Requirements
 
-Install the official DU-INO Library in your Arduino IDE.
-Ensure you have the required dependencies (such as SPI and AVR libraries).
-Open the desired .ino sketch and upload it to the module via USB (Board: Arduino Uno).
+Install the official DU-INO Library in your Arduino IDE.<br>
+Ensure you have the required dependencies (such as SPI and AVR libraries).<br>
+Open the desired .ino sketch and upload it to the module via USB (Board: Arduino Uno).<br>
 Set the rear DIP switches according to the module's ASCII diagram above.
 
 ## License
